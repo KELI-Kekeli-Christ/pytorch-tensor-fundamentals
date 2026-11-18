@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # PyTorch Tensor Fundamentals
 
 > Hands-on introduction to PyTorch tensors, automatic differentiation, and GPU computing — foundations of modern deep learning.
